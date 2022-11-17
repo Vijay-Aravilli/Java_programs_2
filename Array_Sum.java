@@ -9,6 +9,7 @@ public class Array_Sum {
             sum+=ar[i];
 
         }
+        sc.close();
         System.out.println(sum);
 
     }
