@@ -6,6 +6,7 @@ public class PerfectNumber{
             if(x%i==0){
                 count=count+i+(x/i);
             }
+            
             count++;
 
         }
